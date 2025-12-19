@@ -4,7 +4,7 @@ A simple web application built using **HTML, CSS, and JavaScript** that allows u
 
 ---
 
-## 🚀 Features
+## Features
 
 - Search any **LeetCode username**
 - Displays:
@@ -17,7 +17,7 @@ A simple web application built using **HTML, CSS, and JavaScript** that allows u
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML
 - CSS
@@ -25,7 +25,7 @@ A simple web application built using **HTML, CSS, and JavaScript** that allows u
 
 ---
 
-## 📌 How It Works
+##  How It Works
 
 1. Enter a valid LeetCode username.
 2. Click on the **Search** button.
@@ -34,7 +34,7 @@ A simple web application built using **HTML, CSS, and JavaScript** that allows u
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - This project uses **publicly available LeetCode data**.
 - No user data is stored.
@@ -42,7 +42,7 @@ A simple web application built using **HTML, CSS, and JavaScript** that allows u
 
 ---
 
-## 🧪 Future Improvements
+## Future Improvements
 
 - Add loading animation
 - Dark / Light mode
@@ -52,7 +52,7 @@ A simple web application built using **HTML, CSS, and JavaScript** that allows u
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Landing Page
 ![Landing Page](screenshots/ss_1.png)
@@ -71,6 +71,6 @@ A simple web application built using **HTML, CSS, and JavaScript** that allows u
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Made with ❤️ by **Abha**
